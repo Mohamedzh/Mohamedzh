@@ -6,28 +6,28 @@ Check out my [portfolio](https://mohamed-zahran.vercel.app/) :page_with_curl: fo
 
 Currently, I'm a developer and maintainer of the Tansiq management system for Egyptian private universities admission at the communication and information technology center (CITC), Mansoura University
 
-### Programming Languages:
+### :pencil2: Programming Languages:
 
 - JavaScript
 - TypeScript
 - Python
 
-### Frontend Stack:
+### :open_file_folder: Frontend Stack:
 
 - ReactJS
 - NextJS
 - VueJS
 
-### Backend Stack:
+### :open_file_folder: Backend Stack:
 
 - NodeJS
 - Django
 
-### Tools:
+### :memo: Tools:
 
 Socket.io, Prisma ORM, TypeORm, Sanity, TailwindCSS, Bootstrap, PrimeVue
 
-## Projects :briefcase: :
+## :briefcase: Projects:
 
 ### :iphone: Gadgets Hub:
 
