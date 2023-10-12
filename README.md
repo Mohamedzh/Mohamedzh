@@ -1,10 +1,10 @@
 ### Hello there! :wave:
 
-I'm Mohamed Samir, a full stack web developer working with JavaScript, TypeScript and Python. During my software career, I built apps and website using ReactJS, NextJS, VueJS, and NodeJS among other frameworks and tools. Also, I do web scraping and data collection using Puppeteer, X-Ray, and Playwright.
+I'm Mohamed Samir, a web developer working with JavaScript, TypeScript and Python. During my software career, I built apps and website using React.js, Next.js, Vue.js, and Node.js among other frameworks and tools. Also, I build scraping and automation scripts using Puppeteer and Playwright.
 
 Check out my [portfolio](https://mohamed-zahran.vercel.app/) :page_with_curl: for a list of my past projects
 
-Currently, I'm a full stack developer at Intlaq, buidling enterprise web solutions for healthcare and education sectors
+Currently, I'm a full stack developer at [Intlaq](https://www.intlaqcit.com/), buidling enterprise web solutions for healthcare and education sectors
 
 ### :pencil2: Programming Languages:
 
