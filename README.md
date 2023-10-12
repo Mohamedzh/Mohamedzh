@@ -4,7 +4,7 @@ I'm Mohamed Samir, a full stack web developer working with JavaScript, TypeScrip
 
 Check out my [portfolio](https://mohamed-zahran.vercel.app/) :page_with_curl: for a list of my past projects
 
-Currently, I'm a developer and maintainer of the Tansiq management system for Egyptian private universities admission at the communication and information technology center (CITC), Mansoura University
+Currently, I'm a full stack developer at Intlaq, buidling enterprise web solutions for healthcare and education sectors
 
 ### :pencil2: Programming Languages:
 
@@ -14,18 +14,18 @@ Currently, I'm a developer and maintainer of the Tansiq management system for Eg
 
 ### :open_file_folder: Frontend Stack:
 
-- ReactJS
-- NextJS
-- VueJS
+- React.js
+- Next.js
+- Vue.js
 
 ### :open_file_folder: Backend Stack:
 
-- NodeJS
+- Node.js
 - Django
 
 ### :memo: Tools:
 
-Socket.io, Prisma ORM, TypeORm, Sanity, TailwindCSS, Bootstrap, PrimeVue
+Socket.io, Prisma ORM, TypeORm, Knex, Puppeteer, Sanity, TailwindCSS, Bootstrap, PrimeVue, Vuetify
 
 ## :briefcase: Projects:
 
