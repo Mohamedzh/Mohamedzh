@@ -1,6 +1,6 @@
 ### Hello there! :wave:
 
-I'm Mohamed Samir, a web developer working with JavaScript, TypeScript and Python. During my software career, I built apps and website using React.js, Next.js, Vue.js, and Node.js among other frameworks and tools. Also, I build scraping and automation scripts using Puppeteer and Playwright.
+I'm Mohamed Samir, a web developer working with JavaScript, TypeScript and Python. During my software career, I build apps and website using React.js, Next.js, Vue.js, and Node.js among other frameworks and tools. Also, I build scraping and automation scripts using Puppeteer, Playwright, Scrapy and others.
 
 Check out my [portfolio](https://mohamed-zahran.vercel.app/) :page_with_curl: for a list of my past projects
 
